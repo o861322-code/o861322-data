@@ -1,5 +1,5 @@
 {
-    "checksum_md5": "76C1EE9193BA4857DD67BC161AE22D0A",
+    "checksum_md5": "FCD97E390726F311BC858A19DA112F5A",
     "B882F0A7B7D1533EB839F050CC470E6A": {
         "host_path": "controls/control01.ojsonserver.json"
     },
@@ -11,9 +11,6 @@
     },
     "F51E1E7794838406B597F65EF8E917B0": {
         "host_path": "data2.ojsonserver.json"
-    },
-    "ACC8191829792ED03A0DD616A10DC007": {
-        "host_path": "data3.ojsonserver.json"
     },
     "DD9DA72F406C8C3E0940ED9A9D1BE35F": {
         "host_path": "mabvbh/92001.ojsonserver.json"
