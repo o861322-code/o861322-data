@@ -1,30 +1,15 @@
 {
-    "checksum_md5": "AD6A7FDFEFA38F22478533303FEAF863",
-    "B882F0A7B7D1533EB839F050CC470E6A": {
-        "host_path": "controls/control01.ojsonserver.json"
+    "checksum_md5": "49FA89B9C2AA93964F2366494F68C6D7",
+    "08E92A84CDB920CF6BE998C21C419366": {
+        "host_path": "childDir.ojsonserver.json"
     },
-    "9BC12FE88941E8D31D07DFEBFB613C62": {
-        "host_path": "controls/control03.ojsonserver.json"
+    "685579E9D9CD7115004F5753DBADCB55": {
+        "host_path": "github-1.ojsonserver.json"
     },
-    "D475872116E010FF9771246C75573799": {
-        "host_path": "data1.ojsonserver.json"
+    "1013B3672AA5F6B9EAB14ADAE70ABA48": {
+        "host_path": "mabvbh/92118.ojsonserver.json"
     },
-    "EC78CB7038CCEBD8ED89FDAD1EF1E6D1": {
-        "host_path": "data2.ojsonserver.json"
-    },
-    "EFA6379718BC59CEB49B5C8F1B7EC0FE": {
-        "host_path": "data3.ojsonserver.json"
-    },
-    "B084B5530ADC760B936DC2E7EF58A736": {
-        "host_path": "data4.ojsonserver.json"
-    },
-    "DD9DA72F406C8C3E0940ED9A9D1BE35F": {
-        "host_path": "mabvbh/92001.ojsonserver.json"
-    },
-    "4F686CD3323795F02EA5679321446CAF": {
-        "host_path": "mabvbh/92003.ojsonserver.json"
-    },
-    "058C160B495A1C806FF8DF893F8DE166": {
-        "host_path": "public_host.ojsonserver.json"
+    "2118E27F7B4D1E105D0CBD01023CACD7": {
+        "host_path": "testdata.ojsonserver.json"
     }
 }
