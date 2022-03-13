@@ -1,5 +1,5 @@
 {
-    "checksum_md5": "B27D8CF27BB1AE2289C11F46515346E4",
+    "checksum_md5": "C99350CC752AB9326EEB7587BCA1EF07",
     "B882F0A7B7D1533EB839F050CC470E6A": {
         "host_path": "controls/control01.ojsonserver.json"
     },
@@ -24,8 +24,8 @@
     "4F686CD3323795F02EA5679321446CAF": {
         "host_path": "mabvbh/92003.ojsonserver.json"
     },
-    "27FAE894402788D4D422510486876473": {
-        "host_path": "ok..ojsonserver.json"
+    "8521D8B250E7831AF92DA15A910C8546": {
+        "host_path": "ok.ojsonserver.json"
     },
     "058C160B495A1C806FF8DF893F8DE166": {
         "host_path": "public_host.ojsonserver.json"
